@@ -1,4 +1,4 @@
-# Projeto_Final_Pipeline_de_Dados_do_Telegram
+# Projeto_Final_Pipeline_de_Dados_do_Telegram <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50" /
 
 Desenvolvimento do projeto de Pipeline de dados do Telegram, desde sua criação até automação com bot no Telegram e coleta/tratativa de dados.
 
